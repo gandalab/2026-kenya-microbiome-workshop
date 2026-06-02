@@ -31,7 +31,7 @@ Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJ, Holmes SP. DADA2: High-r
 Gloor GB, Macklaim JM, Pawlowsky-Glahn V, Egozcue JJ. Microbiome Datasets Are Compositional: And This Is Not Optional. Front Microbiol. 2017;8:2224. Published 2017 Nov 15. doi:10.3389/fmicb.2017.02224 [Link](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2017.02224/full)
 
 # **Files**
-
+Google drive with lecture PDFs, data, code examples and other resources.
 >
 > [Link](https://drive.google.com/drive/folders/1sqIfLbtloJtTyjIHYApPua87lGEaAntR?usp=drive_link)
 > 
